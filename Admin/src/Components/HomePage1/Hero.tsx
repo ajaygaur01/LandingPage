@@ -26,10 +26,10 @@ const Hero: React.FC = () => {
               <h1 className="text-anime-style-3" >
               The game-changing community of Founders, Investors, and Acquirers
               </h1>
-              <p data-aos="fade-left" data-aos-duration="1000">
+              <h4 data-aos="fade-left" data-aos-duration="1000">
               Empowering connections between visionary founders, strategic investors, and ambitious acquirers,  <br className="d-lg-block d-none" />
               fostering collaboration, growth, and opportunities across the startup ecosystem.
-              </p>
+             </h4>
               <div
                 className="btn-area"
                 data-aos="fade-left"
@@ -50,6 +50,9 @@ const Hero: React.FC = () => {
               </div>
             </div>
           </div>
+
+
+          
           <div className="col-lg-6">
             <div className="header-images-area">
               <div className="main-images-area">
@@ -104,6 +107,9 @@ const Hero: React.FC = () => {
               </div>
             </div>
           </div>
+
+
+
         </div>
       </div>
     </div>

@@ -269,7 +269,7 @@ const Header: React.FC = () => {
                 </div>
               )}
                 </div>
-                <Link to="/http://54.177.193.30:5173/auth/sign-in" className="header-btn1" style={{marginTop:"-270px", marginRight:"-500px"}}>
+                <Link to="/http://54.177.193.30:5173/auth/sign-in" className="header-btn1" style={{marginTop:"-270px", marginRight:"-900px"}}>
                   Get Started 
                   <span>
                     <i className="fa-solid fa-arrow-right"></i>
